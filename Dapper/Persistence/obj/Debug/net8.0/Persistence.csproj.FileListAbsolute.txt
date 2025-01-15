@@ -1,0 +1,15 @@
+D:\Dapper CRUD\Dapper\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Dapper CRUD\Dapper\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Dapper CRUD\Dapper\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Dapper CRUD\Dapper\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Dapper CRUD\Dapper\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\ref\Persistence.dll
