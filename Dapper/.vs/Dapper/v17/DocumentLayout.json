@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Dapper CRUD\\Dapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{231CC14F-547E-4636-B257-0B88BEF4265D}|Domain\\Domain.csproj|d:\\dapper crud\\dapper\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{231CC14F-547E-4636-B257-0B88BEF4265D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81BE5FF2-4D12-4D3D-84F1-95043E273420}|WebUI\\WebUI.csproj|d:\\dapper crud\\dapper\\webui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BE5FF2-4D12-4D3D-84F1-95043E273420}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{231CC14F-547E-4636-B257-0B88BEF4265D}|Domain\\Domain.csproj|d:\\dapper crud\\dapper\\domain\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{231CC14F-547E-4636-B257-0B88BEF4265D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D1FE01B-2B08-47B4-AF18-3C4CFE58FD3D}|Persistence\\Persistence.csproj|d:\\dapper crud\\dapper\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FE01B-2B08-47B4-AF18-3C4CFE58FD3D}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,27 +87,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Certificate.cs",
-              "DocumentMoniker": "D:\\Dapper CRUD\\Dapper\\Domain\\Entities\\Certificate.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Certificate.cs",
-              "ToolTip": "D:\\Dapper CRUD\\Dapper\\Domain\\Entities\\Certificate.cs",
-              "RelativeToolTip": "Domain\\Entities\\Certificate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Dapper CRUD\\Dapper\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Dapper CRUD\\Dapper\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:30:41.333Z",
+              "WhenOpened": "2025-01-17T16:39:53.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Dapper CRUD\\Dapper\\Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
-              "ToolTip": "D:\\Dapper CRUD\\Dapper\\Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "Domain\\Entities\\Student.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAwAAAAdAAAA",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dapper CRUD\\Dapper\\WebUI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dapper CRUD\\Dapper\\WebUI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwE0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:07:24.836Z",
+              "WhenOpened": "2025-01-17T15:41:43.329Z",
               "EditorCaption": ""
             }
           ]

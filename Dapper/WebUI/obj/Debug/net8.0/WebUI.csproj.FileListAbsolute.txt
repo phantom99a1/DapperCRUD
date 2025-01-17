@@ -72,3 +72,4 @@ D:\Dapper CRUD\Dapper\WebUI\obj\Debug\net8.0\refint\WebUI.dll
 D:\Dapper CRUD\Dapper\WebUI\obj\Debug\net8.0\WebUI.pdb
 D:\Dapper CRUD\Dapper\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
 D:\Dapper CRUD\Dapper\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+D:\Dapper CRUD\Dapper\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json

@@ -10,3 +10,4 @@ D:\Dapper CRUD\Dapper\Domain\obj\Debug\net8.0\Domain.dll
 D:\Dapper CRUD\Dapper\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Dapper CRUD\Dapper\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Dapper CRUD\Dapper\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Dapper CRUD\Dapper\Domain\obj\Debug\net8.0\Domain.sourcelink.json

@@ -432,6 +432,7 @@
       },
       "Persistence/1.0.0": {
         "dependencies": {
+          "Dapper": "2.1.35",
           "Domain": "1.0.0",
           "Microsoft.Extensions.Options": "8.0.2"
         },

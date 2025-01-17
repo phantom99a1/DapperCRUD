@@ -13,3 +13,4 @@ D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.dll
 D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Dapper CRUD\Dapper\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
